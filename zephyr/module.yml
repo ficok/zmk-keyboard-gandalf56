@@ -1,3 +1,4 @@
+name: zmk-keyboard-gandalf56
 build:
   settings:
     board_root: .
